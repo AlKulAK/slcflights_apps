@@ -1,0 +1,33 @@
+---
+title: ""
+---
+
+# Interactive Tools for Exploring SLC's Flight Network
+
+This page provides access to three companion Shiny apps for the *CHANCE* article *Tracking and Mapping Change in Salt Lake City's Flight Network, 1987--2026*. The apps support interactive exploration of airport connections, flight-volume patterns, and spatial structure in the SLC flight network.
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4}
+### SLC Flight Network Explorer
+
+Explore the airports connected to Salt Lake City over time. The app maps SLC's flight network by year or across all years, supports airline-level filtering, displays optional route lines, and provides various airport-level details.
+
+[Launch app](https://9ixde5-aleksey-kulyukin.shinyapps.io/slc-flight-network/){.btn .btn-primary}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### SLC Flight Volume Explorer
+
+Examine daily flight-volume patterns for SLC. The app separates main flights from diverted flights, shows date-level observations relative to each year's average daily count, and identifies unusually large diverted flight observations using the app's outlier threshold.
+
+[Launch app](https://9ixde5-aleksey-kulyukin.shinyapps.io/slc-flight-volume/){.btn .btn-primary}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Airport and Weather Station Spatial Explorer
+
+Compare the spatial distribution of airports and weather stations over time. The app maps airport and station locations by year and provides point-pattern visualizations and tests, including Ripley-Rasson area plots, quadrat counts, kernel density maps, nearest-neighbor envelope plots, quadrat tests, and Clark-Evans tests.
+
+[Launch app](https://cam-swapp.shinyapps.io/spatial_app/){.btn .btn-primary}
+:::
+::::::
