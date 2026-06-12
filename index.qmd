@@ -4,7 +4,7 @@ pagetitle: "Interactive Tools for Exploring SLC's Flight Network"
 
 # Interactive Tools for Exploring SLC's Flight Network
 
-This page provides access to three companion Shiny apps for the *CHANCE* article *Tracking and Mapping Change in Salt Lake City's Flight Network, 1987--2026*. The apps support interactive exploration of airport connections, flight-volume patterns, and spatial structure in the SLC flight network.
+This page provides access to three companion Shiny apps for the [*CHANCE*](https://amstat.tandfonline.com/journals/ucha20) article *Tracking and Mapping Change in Salt Lake City's Flight Network, 1987--2026*. The tools were developed by [Aleksey Kulyukin](https://orcid.org/0009-0009-4396-9878), [Cameron Swapp](https://orcid.org/0009-0004-9019-1097), and [J&uuml;rgen Symanzik](https://artsci.usu.edu/math-stats/directory/faculty/symanzik-juergen) at [Utah State University](https://www.usu.edu/)'s [Department of Mathematics & Statistics](https://artsci.usu.edu/math-stats/). The apps support interactive exploration of airport connections, flight-volume patterns, and spatial structure in the SLC flight network.
 
 :::::: grid
 ::: {.g-col-12 .g-col-md-4}
